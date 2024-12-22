@@ -14,7 +14,7 @@
 
 ## Cara Menjalankan
 1. **Repository**
-   - unduh [web_poli](#) lalu masukan ke dalam C:// -> masuk ke xampp -> pilih folder htdocs -> paste
+   - unduh [web_poli](#) lalu masukkan ke dalam C:// -> masuk ke xampp -> pilih folder htdocs -> paste
 
 2. **Import Database**
    - Buka XAMPP.
