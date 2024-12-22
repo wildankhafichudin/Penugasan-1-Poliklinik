@@ -10,7 +10,7 @@
 - XAMPP
 
 ## Database
-- [Link Menuju Database](#)
+- [poliklinikbk.sql](#)
 
 ## Cara Menjalankan
 1. **Repository**
