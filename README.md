@@ -4,7 +4,7 @@
 - **Nama**: Wildan Khafichudin
 - **Kelas**: WD10
 
-## Isian
+## Tools
 - PHP Native
 - MySQL
 - XAMPP
