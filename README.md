@@ -14,7 +14,7 @@
 
 ## Cara Menjalankan
 1. **Repository**
-   - [Link Repository](#)
+   - [web_poli](#)
 
 2. **Import Database**
    - Buka XAMPP.
